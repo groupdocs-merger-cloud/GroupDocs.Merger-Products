@@ -49,7 +49,7 @@ submenu:
               text: "Pricing"
 
     right:
-        link_download: "https://github.com/groupdocs-annotation-cloud/groupdocs-merger-cloud-python"
+        link_download: "https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-python"
         link_learn: "https://docs.groupdocs.cloud/merger/"
         link_buy: "https://purchase.groupdocs.cloud/buy"
 
@@ -65,7 +65,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          An overview of the features supported by the document merger Cloud API for Python.
+          An overview of the features supported by the document merger Cloud API.
       
         left:
           enable: true
@@ -83,14 +83,14 @@ overview:
             * Swap any two pages
         right:
           enable: true
-          icon: "fas fa-files-o"
-          title: "Multiple Files Operations"
+          icon: "fas fa-lock"
+          title: "Security Operations"
           content: |
-            * Combine multiple documents into one
             * Add document password
             * Update document password
             * Remove document password
-            * Check document for password protection
+            * Check document for password
+            * Combine multiple documents
       
       ## TAB TWO ##
       tab_two:
@@ -169,7 +169,7 @@ features:
 
     feature:
       # feature loop
-      - icon: "fas fa-files-o"
+      - icon: "fas fa-file"
         content: "Combine multiple pages, slides or spreadsheets into a single document"
 
       # feature loop
@@ -177,11 +177,11 @@ features:
         content: "Swap position of any two pages, slides or sheets within a document"
 
       # feature loop
-      - icon: "fas fa-repeat"
+      - icon: "fas fa-redo-alt"
         content: "Rotate pages by setting rotation angles like 90, 180 or 270 degrees"
       
       # feature loop
-      - icon: "fas fa-scissors"
+      - icon: "fas fa-cut"
         content: "Split any document into smaller files"
 
       # feature loop
@@ -189,11 +189,11 @@ features:
         content: "Remove any single or collection of specific pages"
 
       # feature loop
-      - icon: "fas fa-refresh"
+      - icon: "fas fa-sync-alt"
         content: "Change page orientation"
 
       # feature loop
-      - icon: "fas fa-sort-amount-asc"
+      - icon: "fas fa-sort-amount-down-alt"
         content: "Rearrange pages, slides or diagrams"
 
       # feature loop
@@ -241,49 +241,49 @@ solutions:
         - img_alt: "GroupDocs.Merger Cloud for cURL"
           image: "/sdk/272x272/groupdocs_merger-for-curl.webp"
           product: "GroupDocs.Merger"
-          platform: "Cloud for cURL"
-          link: "/merger/curl"
+          platform: "cURL"
+          link: "/merger/curl/"
 
         # solution loop
         - img_alt: "GroupDocs.Merger Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_merger-for-net.webp"
           product: "GroupDocs.Merger"
           platform: ".NET"
-          link: "/merger/net"
+          link: "/merger/net/"
 
         # solution loop
         - img_alt: "GroupDocs.Merger Cloud SDK for Java"
           image: "/sdk/272x272/groupdocs_merger-for-java.webp"
           product: "GroupDocs.Merger"
           platform: "Java"
-          link: "/merger/java"
+          link: "/merger/java/"
 
         # solution loop
         - img_alt: "GroupDocs.Merger Cloud SDK for PHP"
           image: "/sdk/272x272/groupdocs_merger-for-php.webp"
           product: "GroupDocs.Merger"
           platform: "PHP"
-          link: "/merger/php"
+          link: "/merger/php/"
 
         # solution loop
         - img_alt: "GroupDocs.Merger Cloud SDK for Ruby"
           image: "/sdk/272x272/groupdocs_merger-for-ruby.webp"
           product: "GroupDocs.Merger"
           platform: "Ruby"
-          link: "/merger/ruby"
+          link: "/merger/ruby/"
 
         # solution loop
         - img_alt: "GroupDocs.Merger Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_merger-for-node.webp"
           product: "GroupDocs.Merger"
           platform: "Node.js"
-          link: "/merger/nodejs"
+          link: "/merger/nodejs/"
         # solution loop
         - img_alt: "GroupDocs.Merger Cloud SDK for Android"
           image: "/sdk/272x272/groupdocs_merger-for-android.webp"
           product: "GroupDocs.Merger"
           platform: "Android"
-          link: "/merger/android"
+          link: "/merger/android/"
         
 
 ############################# Back to top ###############################

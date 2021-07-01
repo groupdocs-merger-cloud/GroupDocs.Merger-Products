@@ -26,7 +26,7 @@ apis:
           img_alt: "GroupDocs.Editor Cloud for cURL"
           image: "/sdk/272x272/groupdocs_editor-for-curl.webp"
           product: "GroupDocs.Editor"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Send API requests to our cloud-based documents editor RESTful API and edit popular document formats in any language or platform."
 
         # api_product loop
@@ -82,7 +82,7 @@ apis:
     # api loop
     - api_product:
         # api_product loop
-        - link: "/editor/nodejs"
+        - link: "/editor/nodejs/"
           img_alt: "GroupDocs.Editor Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_editor-for-node.webp"
           product: "GroupDocs.Editor"

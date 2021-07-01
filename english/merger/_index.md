@@ -23,15 +23,15 @@ apis:
       label: "View All Cloud APIs"
       api_product:
         # api_product loop
-        - link: "/merger/curl"
+        - link: "/merger/curl/"
           img_alt: "GroupDocs.Merger Cloud for cURL"
           image: "/sdk/272x272/groupdocs_merger-for-curl.webp"
           product: "GroupDocs.Merger"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Simple cURL commands for RESTful document merger Cloud API to merge and split documents across the wide range of supported popular document formats."
 
         # api_product loop
-        - link: "/merger/net"
+        - link: "/merger/net/"
           img_alt: "GroupDocs.Merger Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_merger-for-net.webp"
           product: "GroupDocs.Merger"
@@ -39,7 +39,7 @@ apis:
           content: "Cloud SDK for Microsoft .NET that help programmers to implement quick merge and split feature for multiple documents with in their .NET based applications."
 
         # api_product loop
-        - link: "/merger/java"
+        - link: "/merger/java/"
           img_alt: "GroupDocs.Merger Cloud SDK for Java"
           image: "/sdk/272x272/groupdocs_merger-for-java.webp"
           product: "GroupDocs.Merger"
