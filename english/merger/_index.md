@@ -6,11 +6,11 @@ draft: false
 
 ############################# Head ############################
 head_title: "Document and Image Merger Solution"
-head_description: "Merge documents of various formats on any platform with Cloud API, native APIs and online application for programmers and end users"
+head_description: "Merge documents on any platform with Cloud APIs, native APIs and online application for programmers and end users"
 
 ############################# Header ############################
 title: "Solution to Merge Documents"
-description: "Merge documents of various formats on any platform with Cloud API, native APIs and online application for programmers and end users"
+description: "Merge documents with Cloud API, native APIs and online application"
 
 ############################# APIs ###############################
 apis:
@@ -85,7 +85,7 @@ apis:
           image: "/logo/app/groupdocs_words-app.png"
           product: "GroupDocs.Merger"
           platform: "DOCX"
-          content: "Concatenate multiple Word's DOCX files to get a single document.."
+          content: "Concatenate multiple Word's DOCX files to get a single document."
 
         # api_product loop
         - link: "https://products.groupdocs.app/merger/pdf"
@@ -93,7 +93,7 @@ apis:
           image: "/logo/app/groupdocs_pdf-app.png"
           product: "GroupDocs.Merger"
           platform: "PDF"
-          content: "Merge multiple PDF files to generate a single document directly from the web browser."
+          content: "Merge multiple PDF files to generate a single document directly from your web browser."
 
 
 ############################# Back to top ###############################
