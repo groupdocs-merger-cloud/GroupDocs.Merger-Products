@@ -49,7 +49,7 @@ submenu:
               text: "Pricing"
 
     right:
-        link_download: "https://github.com/groupdocs-annotation-cloud/groupdocs-merger-cloud-android"
+        link_download: "https://github.com/groupdocs-merger-cloud/groupdocs-merger-cloud-android"
         link_learn: "https://docs.groupdocs.cloud/merger/"
         link_buy: "https://purchase.groupdocs.cloud/buy"
 
