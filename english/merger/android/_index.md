@@ -65,7 +65,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          An overview of the features supported by the document merger Cloud API.‎
+          An overview of the features supported by the document merger Cloud API.
       
         left:
           enable: true
